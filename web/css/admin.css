@@ -1,0 +1,37 @@
+#site_txt_sl1{
+    margin-top: 60px;
+}
+#header{
+    padding: 0px 15px 20px 15px;
+}
+#site_menu_header > ul > li > a {
+    height: 48px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.content {
+    min-height: calc(100vh - 60px);
+}
+a {
+    color: #B22222;
+    text-decoration: none;
+}
+a:visited {
+    color: #cccccc;
+}
+a:active {
+    color: #B22222;
+}
+a:hover {
+    color: #B22222;
+    text-decoration: none;
+}
+
+@media (max-width: 580px) {
+#site_uid2{
+	font-size: 20px;
+}
+
+}

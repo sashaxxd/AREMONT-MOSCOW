@@ -1,0 +1,402 @@
+#plachki_plachki {
+    background-color: #FFFFFF;
+    background-image: none;
+    border: 0px #CCCCCC solid;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    clear: both;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1280px;
+    position: relative;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+}
+#plachki {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 15px 0px 15px;
+}
+#plachki .row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#plachki .col-1,
+#plachki .col-2 {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 0px;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+#plachki .col-1,
+#plachki .col-2 {
+    float: left;
+}
+#plachki .col-1 {
+    background-color: transparent;
+    background-image: none;
+    text-align: left;
+    width: 25%;
+}
+#plachki .col-2 {
+    background-color: transparent;
+    background-image: none;
+    text-align: left;
+    width: 75%;
+}
+#plachki:before,
+#plachki:after,
+#plachki .row:before,
+#plachki .row:after {
+    content: " ";
+    display: table;
+}
+#plachki:after,
+#plachki .row:after {
+    clear: both;
+}
+@media (max-width: 780px) {
+    #plachki .col-1,
+    #plachki .col-2 {
+        float: none;
+        width: 100%;
+    }
+}
+#plachki_plachki_one {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: #E88D16;
+    background-image: none;
+    border: 2px #B22222 solid;
+    box-sizing: border-box;
+    clear: both;
+    display: table;
+    position: relative;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+}
+#plachki_one {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 15px 0px 15px;
+}
+#plachki_one .row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#plachki_one .row .col-1,
+#plachki_one .row .col-2 {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 0px;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+#plachki_one .row .col-1,
+#plachki_one .row .col-2 {
+    float: left;
+}
+#plachki_one .row .col-1 {
+    background-color: #B22222;
+    background-image: none;
+    text-align: left;
+    width: 25%;
+
+}
+#plachki_one .row .col-2 {
+    background-color: transparent;
+    background-image: none;
+    text-align: left;
+    width: 75%;
+}
+#plachki_one:before,
+#plachki_one:after,
+#plachki_one .row:before,
+#plachki_one .row:after {
+    content: " ";
+    display: table;
+}
+#plachki_one:after,
+#plachki_one .row:after {
+    clear: both;
+}
+@media (max-width: 0px) {
+    #plachki_one .row .col-1,
+    #plachki_one .row .col-2 {
+        float: none;
+        width: 100%;
+    }
+}
+#plachki_pl1 {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #000000 solid;
+    margin: 0;
+
+    text-align: left;
+    padding-top: 13px;
+}
+#plachki_pl1 div {
+    text-align: left;
+}
+#plachki_FontAwesomeIcon1 {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #245580 solid;
+    padding: 15px 5px 15px 5px;
+    text-align: center;
+    vertical-align: top;
+}
+#plachki_FontAwesomeIcon1:hover {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #245580 solid;
+}
+#FontAwesomeIcon1 {
+    height: 35px;
+    width: 32px;
+}
+#FontAwesomeIcon1 i {
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 32px;
+    line-height: 35px;
+    vertical-align: middle;
+    width: 27px;
+}
+#plachki_FontAwesomeIcon1:hover i {
+    color: #E88D16;
+}
+#Line5 {
+    background-color: #A0A0A0;
+    border-width: 0;
+    color: #A0A0A0;
+    margin: 0;
+    padding: 0;
+}
+#plachki_plachki_two {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: #E88D16;
+    background-image: none;
+    border: 2px #B22222 solid;
+    box-sizing: border-box;
+    clear: both;
+    display: table;
+    position: relative;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+}
+#plachki_two {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 15px 0px 15px;
+}
+#plachki_two .row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#plachki_two .row .col-1,
+#plachki_two .row .col-2 {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 0px;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+#plachki_two .row .col-1,
+#plachki_two .row .col-2 {
+    float: left;
+}
+#plachki_two .row .col-1 {
+    background-color: #B22222;
+    background-image: none;
+    text-align: left;
+    width: 25%;
+}
+#plachki_two .row .col-2 {
+    background-color: transparent;
+    background-image: none;
+    text-align: left;
+    width: 75%;
+}
+#plachki_two:before,
+#plachki_two:after,
+#plachki_two .row:before,
+#plachki_two .row:after {
+    content: " ";
+    display: table;
+}
+#plachki_two:after,
+#plachki_two .row:after {
+    clear: both;
+}
+@media (max-width: 0px) {
+    #plachki_two .row .col-1,
+    #plachki_two .row .col-2 {
+        float: none;
+        width: 100%;
+    }
+}
+#plachki_pl2 {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #000000 solid;
+    margin: 0;
+    text-align: left;
+    padding-top: 13px;
+}
+#plachki_pl2 div {
+    text-align: left;
+}
+#plachki_FontAwesomeIcon2 {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #245580 solid;
+    padding: 15px 5px 15px 5px;
+    text-align: center;
+    vertical-align: top;
+}
+#plachki_FontAwesomeIcon2:hover {
+    background-color: transparent;
+    background-image: none;
+    border: 0px #245580 solid;
+}
+#FontAwesomeIcon2 {
+    height: 35px;
+    width: 32px;
+}
+#FontAwesomeIcon2 i {
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 32px;
+    line-height: 35px;
+    vertical-align: middle;
+    width: 27px;
+}
+#plachki_FontAwesomeIcon2:hover i {
+    color: #E88D16;
+}
+#plachki_plachki_app {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: transparent;
+    background-image: none;
+    border: 0px #CCCCCC solid;
+    box-sizing: border-box;
+    clear: both;
+    display: table;
+    position: relative;
+    table-layout: fixed;
+    text-align: center;
+    width: 100%;
+}
+#plachki_app {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 15px 0px 15px;
+}
+#plachki_app .row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+#plachki_app .row .col-1 {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 0px;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+#plachki_app .row .col-1 {
+    float: left;
+}
+#plachki_app .row .col-1 {
+    background-color: transparent;
+    background-image: none;
+    text-align: left;
+    width: 100%;
+}
+#plachki_app:before,
+#plachki_app:after,
+#plachki_app .row:before,
+#plachki_app .row:after {
+    content: " ";
+    display: table;
+}
+#plachki_app:after,
+#plachki_app .row:after {
+    clear: both;
+}
+@media (max-width: 480px) {
+    #plachki_app .row .col-1 {
+        float: none;
+        width: 100%;
+    }
+}
+#plachki_uid1 {
+    color: #FFFFFF;
+    font-family: Roboto Light;
+    font-size: 17px;
+}
+#plachki_FontAwesomeIcon1 {
+    display: inline-block;
+    height: 35px;
+    text-align: center;
+    width: 32px;
+    z-index: 0;
+}
+#plachki_FontAwesomeIcon2 {
+    display: inline-block;
+    height: 35px;
+    text-align: center;
+    width: 32px;
+    z-index: 2;
+}
+#FontAwesomeIcon1 {
+    cursor: pointer;
+}
+#FontAwesomeIcon2 {
+    cursor: pointer;
+}
+#plachki_uid0 {
+    color: #FFFFFF;
+    font-family: Roboto Light;
+    font-size: 17px;
+
+}
+#Line5 {
+    display: block;
+    height: 1px;
+    width: 100%;
+    z-index: 4;
+}
